@@ -1,2 +1,3 @@
 # hello_world
-tutorial_repository
+
+Hello..I'm Curry..
